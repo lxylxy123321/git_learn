@@ -1,3 +1,5 @@
 print("hello, world!")
 print("This is an additional line.")
 print("Goodbye, world!")
+print("This is another additional line.")
+print("See you later, world!")
